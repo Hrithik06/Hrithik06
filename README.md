@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrithik06&show_icons=true&theme=synthwave)](https://github.com/Hrithik06/github-readme-stats)
+[![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrithik06&show_icons=true&theme=tokyonight)](https://github.com/Hrithik06/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hrithik06&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hrithik06&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik06&show_icons=true&theme=tokyonight)](https://github.com/Hrithik06/github-readme-stats)
