@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrithik06&show_icons=true&theme=tokyonight)](https://github.com/Hrithik06/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik06)](https://github.com/Hrithik06/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik06&show_icons=true&theme=tokyonight)](https://github.com/Hrithik06/github-readme-stats)
