@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hrithik06&theme=tokyonight)](https://git.io/streak-stats)
 
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik06&show_icons=true&theme=tokyonight)](https://github.com/Hrithik06/github-readme-#stats)
+
