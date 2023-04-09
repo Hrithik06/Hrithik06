@@ -8,7 +8,18 @@
 
 <!-- 💻 I'm currently working on [Project Name], a web application that [Description of Project]. I'm also building a microservice-based application using Spring Boot and exploring various cloud-native patterns. -->
 
-📫 Feel free to connect with me on LinkedIn [Link to LinkedIn Profile] or send me an email at [Your Email Address]. Let's collaborate on a project or discuss the latest trends in front-end development, cloud computing, and software engineering!
+<!-- 📫 Feel free to connect with me on LinkedIn [Link to LinkedIn Profile] or send me an email at [Your Email Address]. Let's collaborate on a project or discuss the latest trends in front-end development, cloud computing, and software engineering!
+ -->
+## My Projects
+
+Here are some of the projects that I have created and worked on:
+
+- [Business Card](https://hrithikbusinesscard.netlify.app/) - My Business Card
+- [Fantasiyum](https://fantasiyum.netlify.app/) - A place where you can play along with your favourite teams compete with other fans to win exciting prizes.
+<!-- - [Project 3](link-to-project-3) - Description of project 3
+- [Project 4](link-to-project-4) - Description of project 4 -->
+
+Feel free to check out these projects and provide feedback or suggestions for improvements.
 
 
 <!--
