@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Hrithik.
-
-👋 Hi there! I'm [Your Name], a Front End Developer with a passion for building elegant and intuitive user interfaces. I'm currently learning ReactJS and Java and exploring their potential to create scalable and performant web applications.
+👋 Hi there! I'm Hrithik, a Front End Developer with a passion for building elegant and intuitive user interfaces. I'm currently learning ReactJS and Java and exploring their potential to create scalable and performant web applications.
 
 ☁️ I'm also passionate about cloud technology and how it can be leveraged to develop and deploy modern applications. I have hands-on experience with various cloud platforms like AWS, Azure, and I'm excited to learn more about cloud-native architectures and serverless computing.
 
