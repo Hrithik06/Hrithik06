@@ -1,6 +1,6 @@
-👋 Hi there! I'm Hrithik, a Front End Developer with a passion for building elegant and intuitive user interfaces. I'm currently learning ReactJS and Java and exploring their potential to create scalable and performant web applications.
+👋 Hi there! I'm Hrithik, a Front End Developer with a passion for building elegant and intuitive user interfaces. I'm currently learning ReactJS and exploring their potential to create scalable and performant web applications.
 
-☁️ I'm also passionate about cloud technology and how it can be leveraged to develop and deploy modern applications. I have hands-on experience with various cloud platforms like AWS, Azure, and I'm excited to learn more about cloud-native architectures and serverless computing.
+<!--☁️ I'm also passionate about cloud technology and how it can be leveraged to develop and deploy modern applications. I have hands-on experience with various cloud platforms like AWS, Azure, and I'm excited to learn more about cloud-native architectures and serverless computing.-->
 
 👨‍🎓 I hold a Bachelor's degree in Computer Science and have completed various courses and certifications in front-end development, cloud computing, and software engineering. I believe in continuous learning and staying up-to-date with the latest industry trends and technologies.
 
