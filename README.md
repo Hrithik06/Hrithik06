@@ -39,4 +39,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hrithik06&theme=tokyonight)](https://git.io/streak-stats)
 
-
+<!--
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="100"/>
+</div>
+-->
