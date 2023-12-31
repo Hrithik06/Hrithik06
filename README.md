@@ -1,13 +1,13 @@
-👋 Hi there! I'm Hrithik, a Front End Developer with a passion for building elegant and intuitive user interfaces. I'm currently learning ReactJS and exploring their potential to create scalable and performant web applications.
+👋 Hi there! I'm Hrithik, a Front End Developer with a passion for building elegant and intuitive user interfaces. I'm building Frontends with ReactJS, Redux, TailwindCSS, Config Driven UI and following industry standards
 
-<!--☁️ I'm also passionate about cloud technology and how it can be leveraged to develop and deploy modern applications. I have hands-on experience with various cloud platforms like AWS, Azure, and I'm excited to learn more about cloud-native architectures and serverless computing.-->
+☁️ I'm also passionate about technology and science as a whole. Computers, Phones, Linux...
 
 👨‍🎓 I hold a Bachelor's degree in Computer Science and have completed various courses and certifications in front-end development, cloud computing, and software engineering. I believe in continuous learning and staying up-to-date with the latest industry trends and technologies.
 
-<!-- 💻 I'm currently working on [Project Name], a web application that [Description of Project]. I'm also building a microservice-based application using Spring Boot and exploring various cloud-native patterns. -->
+ 💻 I'm currently working on FeastFleet, a web application for Online Food Ordering. I'm using Live API from Swiggy.com.
 
-<!-- 📫 Feel free to connect with me on LinkedIn [Link to LinkedIn Profile] or send me an email at [Your Email Address]. Let's collaborate on a project or discuss the latest trends in front-end development, cloud computing, and software engineering!
- -->
+📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/hrithik-k-9b0b10230/). Let's collaborate on a project or discuss the latest trends in front-end development, tech, science and software engineering!
+
 ## My Projects
 
 Here are some of the projects that I have created and worked on:
