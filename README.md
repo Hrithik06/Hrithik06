@@ -30,6 +30,12 @@
   <img width="12" /> -->
  
 <img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="30" width="30" />
+  <img width="12" />
+
+<img  src="https://parceljs.org/avatar.b1be591d.avif" alt="parcel" height="30" width="30" />
+
+  <img width="12" />
+
 <img  src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="vercel" height="30" width="30" />
   <img width="12" />
 
