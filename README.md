@@ -71,8 +71,8 @@
 
 Here are some of the projects that I have created and worked on:
 
-- [Business Card](https://hrithikbusinesscard.netlify.app/) - My Business Card
-- [Fantasiyum](https://fantasiyum.netlify.app/) - A place where you can play along with your favourite teams compete with other fans to win exciting prizes.
+- [aimax](https://aimax-c4f30.web.app/) - AI powered streaming website.
+- [FeastFleet](https://feastfleet.vercel.app/) - Order yummy food.
 <!-- - [Project 3](link-to-project-3) - Description of project 3
 - [Project 4](link-to-project-4) - Description of project 4 -->
 
