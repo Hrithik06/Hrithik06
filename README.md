@@ -1,6 +1,6 @@
 <!-- 👋 Hi there! I'm Hrithik, a Front End Developer with a passion for building elegant and intuitive user interfaces. I'm building Frontends with ReactJS, Redux, TailwindCSS, Config Driven UI and following industry  -->
 
-<h2 align="left">Hi 👋! My name is Hrithik and I'm a FrontEnd Dev from India</h2>
+<h2 align="left">Hi 👋! My name is Hrithik </h2>
 
 ###
 
@@ -59,12 +59,16 @@
 
 ###
 
+🧑‍💻 I'm intereseted in FrontEnd Development
+
 ☁️ I'm also passionate about technology and science as a whole. Computers, Phones, Linux...
 
 👨‍🎓 I hold a Bachelor's degree in Computer Science and have completed various courses and certifications in front-end development, cloud computing, and software engineering. I believe in continuous learning and staying up-to-date with the latest industry trends and technologies.
 
- 💻 I'm currently working on FeastFleet, a web application for Online Food Ordering. I'm using Live API from Swiggy.com.
-
+ 💻 I'm currently working on FeastFleet and aimax.
+ 
+ 🌱 I’m currently learning NextJS and Python.
+ 
 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/hrithik-k-9b0b10230/). Let's collaborate on a project or discuss the latest trends in front-end development, tech, science and software engineering!
 
 ## My Projects
