@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 -->
 
 [![Hrithik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrithik06&show_icons=true&theme=tokyonight)](https://github.com/Hrithik06/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hrithik06)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hrithik06&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
