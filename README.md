@@ -83,7 +83,7 @@ Freelance
   
 Personal
 - [gittogether](https://gittogether.xyz) - Build meaningful connections.
-  - MERN, AWS EC2, S3, SocketIO, Brevo
+  - MERN, AWS EC2, S3, SocketIO, Brevo(Sendinblue) 
   
 - [devaimax](https://devaimax.web.app) - AI powered streaming website.
   - React.js, Firebase, Gemini AI
