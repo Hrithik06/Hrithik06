@@ -59,15 +59,17 @@
 
 ###
 
-🧑‍💻 I'm intereseted in FrontEnd Development
+🧑‍💻 I'm intereseted in FullStack Development
 
 ☁️ I'm also passionate about technology and science as a whole. Computers, Phones, Linux...
 
 👨‍🎓 I hold a Bachelor's degree in Computer Science and have completed various courses and certifications in front-end development, cloud computing, and software engineering. I believe in continuous learning and staying up-to-date with the latest industry trends and technologies.
 
- 💻 I'm currently working on FeastFleet and aimax.
+ <!-- 💻 I'm currently working on FeastFleet and aimax. -->
  
- 🌱 I’m currently learning NextJS and Python.
+ 🌱 I’m currently learning NextJS.
+
+ 💻 Tinkering with Fedora
  
 📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/hrithik-k-9b0b10230/). Let's collaborate on a project or discuss the latest trends in front-end development, tech, science and software engineering!
 
@@ -75,8 +77,13 @@
 
 Here are some of the projects that I have created and worked on:
 
-- [aimax](https://aimax-c4f30.web.app/) - AI powered streaming website.
-- [FeastFleet](https://feastfleet.vercel.app/) - Order yummy food.
+Freelance
+- [MayaVFXStudio](https://www.mayavfxstudio.com) - Mastering Illusion. Creating Reality
+  
+Personal
+- [gittogether](https://gittogether.xyz) - Build meaningful connections.
+- [aimax](https://aimax-c4f30.web.app) - AI powered streaming website.
+  
 <!-- - [Project 3](link-to-project-3) - Description of project 3
 - [Project 4](link-to-project-4) - Description of project 4 -->
 
