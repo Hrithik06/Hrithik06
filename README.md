@@ -79,11 +79,11 @@ Here are some of the projects that I have created and worked on:
 
 Freelance
 - [MayaVFXStudio](https://www.mayavfxstudio.com) - Mastering Illusion. Creating Reality
-  - NextJS, Sanity, Vercel
+  - NextJS, SanityIO, Vercel
   
 Personal
 - [gittogether](https://gittogether.xyz) - Build meaningful connections.
-  - MERN, AWS EC2, S3, Brevo
+  - MERN, AWS EC2, S3, SocketIO, Brevo
   
 - [devaimax](https://devaimax.web.app) - AI powered streaming website.
   - React.js, Firebase, Gemini AI
