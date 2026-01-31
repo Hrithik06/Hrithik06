@@ -86,7 +86,7 @@ Personal
   - Tech: MERN, AWS EC2, S3, Brevo
   
 - [aimax](https://aimax-c4f30.web.app) - AI powered streaming website.
-  - Tech: React.js, Firebase
+  - Tech: React.js, Firebase, Gemini AI
   
 <!-- - [Project 3](link-to-project-3) - Description of project 3
 - [Project 4](link-to-project-4) - Description of project 4 -->
