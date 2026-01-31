@@ -63,7 +63,7 @@
 
 ☁️ I'm also passionate about technology and science as a whole. Computers, Phones, Linux...
 
-👨‍🎓 I hold a Bachelor's degree in Computer Science and have completed various courses and certifications in front-end development, cloud computing, and software engineering. I believe in continuous learning and staying up-to-date with the latest industry trends and technologies.
+👨‍🎓 I hold a Bachelor's degree in Computer Science and have completed various courses and certifications in web development, AI, cloud computing, and software engineering. I believe in continuous learning and staying up-to-date with the latest industry trends and technologies.
 
  <!-- 💻 I'm currently working on FeastFleet and aimax. -->
  
@@ -71,7 +71,7 @@
 
  💻 Tinkering with Fedora
  
-📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/hrithik-k-9b0b10230/). Let's collaborate on a project or discuss the latest trends in front-end development, tech, science and software engineering!
+📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/hrithik-k-9b0b10230/). Let's collaborate on a project or discuss the latest trends in qeb development, tech, science and software engineering!
 
 ## My Projects
 
@@ -79,10 +79,14 @@ Here are some of the projects that I have created and worked on:
 
 Freelance
 - [MayaVFXStudio](https://www.mayavfxstudio.com) - Mastering Illusion. Creating Reality
+  - Tech: NextJS, Sanity, Vercel
   
 Personal
 - [gittogether](https://gittogether.xyz) - Build meaningful connections.
+  - Tech: MERN, AWS EC2, S3, Brevo
+  
 - [aimax](https://aimax-c4f30.web.app) - AI powered streaming website.
+  - Tech: React.js, Firebase
   
 <!-- - [Project 3](link-to-project-3) - Description of project 3
 - [Project 4](link-to-project-4) - Description of project 4 -->
