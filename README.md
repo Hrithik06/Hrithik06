@@ -85,7 +85,7 @@ Personal
 - [gittogether](https://gittogether.xyz) - Build meaningful connections.
   - Tech: MERN, AWS EC2, S3, Brevo
   
-- [aimax](https://aimax-c4f30.web.app) - AI powered streaming website.
+- [devaimax](https://devaimax.web.app) - AI powered streaming website.
   - Tech: React.js, Firebase, Gemini AI
   
 <!-- - [Project 3](link-to-project-3) - Description of project 3
