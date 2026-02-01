@@ -82,10 +82,10 @@ Freelance
   - NextJS, SanityIO, Vercel
   
 Personal
-- [gittogether](https://gittogether.xyz) - Build meaningful connections.
+- [GitTogether](https://gittogether.xyz) - Build meaningful connections.
   - MERN, AWS EC2, S3, SocketIO, Brevo(Sendinblue) 
   
-- [devaimax](https://devaimax.web.app) - AI powered streaming website.
+- [AImax](https://devaimax.web.app) - AI powered streaming website.
   - React.js, Firebase, Gemini AI
   
 <!-- - [Project 3](link-to-project-3) - Description of project 3
