@@ -7,55 +7,18 @@
 <img align="right" height="150" src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif"  />
 <!-- <img align="right" height="150" src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif"  /> -->
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" /> -->
- 
-<img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="30" width="30" />
-  <img width="12" />
-
-<img  src="https://parceljs.org/avatar.b1be591d.avif" alt="parcel" height="30" width="30" />
-
-  <img width="12" />
-
-<img  src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg" alt="vercel" height="30" width="30" />
-  <img width="12" />
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="30" width="30" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />-->
-  <img width="12" /> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/hrithik-k-9b0b10230/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite,figma,nodejs,express,py,mongodb,postgres,firebase,appwrite,aws,vercel,git,github,vscode,postman,jest,gmail&perline=9" />
+  </a>
+</p>
 
 ###
 
