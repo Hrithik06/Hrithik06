@@ -71,7 +71,7 @@
 
  💻 Tinkering with Fedora
  
-📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/hrithik-k-9b0b10230/). Let's collaborate on a project or discuss the latest trends in qeb development, tech, science and software engineering!
+📫 Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/hrithik-k-9b0b10230/). Let's collaborate on a project or discuss the latest trends in web development, tech, science and software engineering!
 
 ## My Projects
 
