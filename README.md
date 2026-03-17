@@ -46,7 +46,10 @@ Freelance
   
 Personal
 - [GitTogether](https://gittogether.xyz) - Build meaningful connections.
-  - MERN, AWS EC2, S3, SocketIO, Brevo(Sendinblue) 
+  - MERN, AWS EC2, S3, SocketIO, Brevo(Sendinblue)
+    
+- [NeatHunt](https://neathunt.vercel.app/) (In Progress) - Your job search, finally under control.
+  - React.js, Node.js, Postgres, Gemini AI, AWS EC2
   
 - [AImax](https://devaimax.web.app) - AI powered streaming website.
   - React.js, Firebase, Gemini AI
