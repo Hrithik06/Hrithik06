@@ -51,7 +51,7 @@ Personal
 - [NeatHunt](https://neathunt.vercel.app/) (In Progress) - Your job search, finally under control.
   - React.js, Node.js, Postgres, Gemini AI, AWS EC2
   
-- [AImax](https://devaimax.web.app) - AI powered streaming website.
+- [AImax](https://devaimax.vercel.app/) - AI powered streaming website.
   - React.js, Firebase, Gemini AI
   
 <!-- - [Project 3](link-to-project-3) - Description of project 3
